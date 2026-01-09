@@ -29,7 +29,7 @@ logger = logging.getLogger(__name__)
 # FALLBACK TWEETS (UNCHANGED — EXACTLY AS YOU PROVIDED)
 # -------------------------------------------------------------------
 FALLBACK_TWEETS = [
-    "liquidity continues to return to the same opening, indicating that the market has begun to treat the gap as a stable pathway rather than a failure point"
+"liquidity continues to return to the same opening, indicating that the market has begun to treat the gap as a stable pathway rather than a failure point"
 "gape remains active while the surrounding structure adapts, suggesting the anomaly has moved beyond containment and into sustained operation"
 "most markets collapse when pressure increases, but this one continues to widen, absorbing stress instead of breaking"
 "price fluctuations indicate expansion rather than decay, as if the system is stretching to accommodate the growing aperture"
